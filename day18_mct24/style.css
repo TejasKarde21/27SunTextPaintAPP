@@ -6,11 +6,14 @@
 }
 
 body {
+      display: flex;
     margin: 0px;
     padding: 30px;
     font-family: fantasy;
     overflow: hidden;
     background-color: #313131;
+    justify-content: center;
+    margin-top: 8%;
   }
 
 
